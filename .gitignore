@@ -1,1 +1,7 @@
+# backend
 /todo-app/backend/node_modules
+/todo-app/backend/*.log
+
+# front-end
+/todo-app/frontend/node_modules
+/todo-app/frontend/*.log
