@@ -5,3 +5,7 @@
 # front-end
 /todo-app/frontend/node_modules
 /todo-app/frontend/*.log
+
+# backend
+/my-money-app/node_modules
+/my-money-app/backend/*.log
